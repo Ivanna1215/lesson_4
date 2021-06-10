@@ -1,0 +1,24 @@
+h1 { 
+    color: white;
+    background:tomato;
+    text-align: center;
+}
+main {
+    text-align: center;
+    font-size: 18px;
+}
+.color Text {
+    color: chartreuse;
+    font-style: italic;
+    
+}
+
+ .text2{
+    font-style: italic;
+}
+footer{
+    color:white;
+    background: black;
+    text-align: center;
+    font-size: 20px;
+}

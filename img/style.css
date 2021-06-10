@@ -1,0 +1,15 @@
+header {
+ color:white;  
+  background: tomato;
+  padding:2px;
+  font-size:25px;
+}
+.work1 {
+    color: white;
+    background: tomato;
+}
+
+footer {
+    color:white;
+    background-color: black;
+}
